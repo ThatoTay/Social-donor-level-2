@@ -7,7 +7,7 @@ table{
     background-color: #d60505;
     width: 100%;
     height: 60px;
-    border: 1px solid #d60505;
+    border: 1px solid #00003e;
 }
 
 table.added{
@@ -17,11 +17,11 @@ table.added{
 table.added th{
   color: #d60505;
   font-size: 20pt;
-  border: 1px solid #d60505;
+  border: 1px solid #00003e;
  
 }
 table.added tr td{
-  border: 1px solid #d60505;
+ border: 1px solid #00003e;
   text-align: center;
 
 }
